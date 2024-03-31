@@ -1,0 +1,1 @@
+It will take username ,password and save it and make database in this way then login and then give exam within time and then you can see your result and after certain time exam will be closed.Marks will not be allocated.
